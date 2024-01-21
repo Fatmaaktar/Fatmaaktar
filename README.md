@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=kadirnar&style=flat)
 # Hello, I'm Fatma Aktar!👋  
 ### I'm a Software Developer
 
