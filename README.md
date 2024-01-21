@@ -21,6 +21,6 @@
 
 ## Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmaaktar&show_icons=true&theme=radical" alt="GitHub Statistics" />
-</p>
+
+  ![Fatma Aktar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatmaaktar&show_icons=true&theme=radical\&rank_icon=percentile)
+
