@@ -10,7 +10,7 @@
 
 ## Skills
 
-- 💻 C, C#, SQL, Asp.NET Core, Java, HTML, CSS,Boostrap.
+- 💻 C, C#, SQL, ASP.NET Core, Java, HTML, CSS,Boostrap,Python.
 - 🛠 Visual Studio, Visual Studio Code, Git, IntelliJ IDEA.
 - 📚 Web Development - Backend.
 
