@@ -23,4 +23,5 @@
 ## Statistics
 
 
-  ![Fatma Aktar's GitHub starts](https://github-readme-stats.vercel.app/api?username=Fatmaaktar&show_icons=true&theme=radical\&rank_icon=percentile)
+![Fatma Aktar'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Fatmaaktar&show_icons=true&theme=radical&rank_icon=percentile)
+
