@@ -16,12 +16,11 @@
 
 ## Contact
 
-- 💼 [LinkedIn profile](https://www.linkedin.com/in/fatma-aktar-414521233/)
+- 💼 [LinkedIn profile](https://www.linkedin.com/in/fatma-aktar)
 - 🐦 [Twitter profile](https://twitter.com/ftm_ktr).
 - 📚 [Medium profile](https://medium.com/@fatmaaktar)
 
 ## Statistics
 
 
-  ![Fatma Aktar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatmaaktar&show_icons=true&theme=radical\&rank_icon=percentile)
-
+  ![Fatma Aktar's GitHub starts](https://github-readme-stats.vercel.app/api?username=Fatmaaktar&show_icons=true&theme=radical\&rank_icon=percentile)
