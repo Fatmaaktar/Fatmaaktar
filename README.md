@@ -1,53 +1,29 @@
-# 👋 Hi, I'm Fatma Aktar  
+<h1 align="center">🌱 Open Source Contributor</h1>
 
-## 💻 About Me  
-I am a **WordPress & SEO Specialist** passionate about helping websites grow through **data-driven strategies** and **technical optimization**.  
-My journey started as a software enthusiast, but over time I focused on **digital marketing**, **on-page SEO**, and **WordPress performance optimization** to deliver real business results.  
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Fatmaaktar-111827?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20SEO-7c3aed?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Stack-JS%20%7C%20.NET%20%7C%20WP-2563eb?style=for-the-badge">
+</p>
 
----
+<br>
 
-## 🚀 What I Do  
-- 📝 **SEO Strategy** – Creating tailored strategies for businesses to improve search engine rankings  
-- ⚡ **Website Optimization** – Speed, Core Web Vitals, and performance tuning for WordPress  
-- 🔧 **Technical SEO** – Site audits, structured data, and fixing crawling/indexing issues  
-- 🎨 **WordPress Development** – Building and customizing themes & plugins to improve UX  
-- 📊 **Analytics & Reporting** – Tracking KPIs and creating actionable reports  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,wordpress,dotnet,cs,postgres,redis,git,linux,vscode" />
+</p>
+<br>
 
----
+## 📊 GitHub Statistics
 
-## 🛠️ Skills & Tools  
-| Category | Tools / Technologies |
-| --- | --- |
-| **SEO & Analytics** | Google Search Console, Google Analytics 4, Ahrefs, Semrush |
-| **WordPress** | Gutenberg, Elementor, WooCommerce, Custom Plugins |
-| **Technical** | PHP (basic), HTML, CSS, JavaScript |
-| **Performance** | PageSpeed Insights, GTmetrix, WP Rocket, LiteSpeed Cache |
-| **Marketing** | Content Strategy, Keyword Research, On-Page Optimization |
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fatmaaktar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fatmaaktar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
----
-
-## 📚 Currently Learning  
-- Advanced **technical SEO** (schema, automation, log file analysis)  
-- Building custom **WordPress plugins** to automate SEO tasks  
-- Exploring **AI tools** to speed up keyword clustering and content creation  
-
----
-
-## 🖊️ Content & Writing  
-I regularly share insights and tips about SEO, WordPress, and digital marketing:  
-- ✍️ [Medium Blog](https://medium.com/@fatmaaktar) – SEO guides, case studies, and WordPress tutorials  
-
----
-
-## 🌍 Connect With Me  
-- 🔗 **LinkedIn:** [Fatma Aktar](https://www.linkedin.com/in/fatma-aktar)   
-- 📧 **Email:** fatmaaktarr@gmail.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fatmaaktar&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 
-
-## Statistics
-
-
-![Fatma Aktar'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Fatmaaktar&show_icons=true&theme=radical&rank_icon=percentile&cache_seconds=1800)
 
 
