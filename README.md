@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,wordpress,dotnet,cs,postgres,redis,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,wordpress,dotnet,git,php,css,html,vscode,photoshop" />
 </p>
 <br>
 
